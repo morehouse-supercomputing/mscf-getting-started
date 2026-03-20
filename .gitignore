@@ -1,3 +1,6 @@
 _site/
 .jekyll-cache/
 .DS_Store
+admin/
+annotate_images.py
+images/mfa-completed.png
