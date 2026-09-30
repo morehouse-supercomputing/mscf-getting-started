@@ -1,8 +1,8 @@
-# MSCF Getting Started
+# MSF Getting Started
 
-Onboarding documentation for the **Morehouse Supercomputing Facility (MSCF)**, hosted at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).
+Onboarding documentation for the **Morehouse Supercomputing Facility (MSF)**, hosted at the [Texas Advanced Computing Center (TACC)](https://www.tacc.utexas.edu/).
 
-This repo contains everything new users need to get set up on MSCF's HPC resources, and everything administrators need to manage the onboarding process.
+This repo contains everything new users need to get set up on MSF's HPC resources, and everything administrators need to manage the onboarding process.
 
 ## For New Users
 
